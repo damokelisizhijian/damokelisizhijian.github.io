@@ -6,7 +6,7 @@
    wget
    ```
 
-   ![1567404038540](C:\Users\Bill\OneDrive\Typero文件\media\1567404038540.png)
+   ![111](https://raw.githubusercontent.com/damokelisizhijian/damokelisizhijian.github.io/master/8d1bad4e7935a429ae00fc9f07be20c293909ce98963a436a75980ca813c147d.png)
 
    如上显示为有wget命令。
 
